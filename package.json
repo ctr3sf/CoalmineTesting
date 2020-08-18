@@ -1,0 +1,26 @@
+{
+  "name": "twinthread",
+  "version": "1.0.0",
+  "description": "Cody Robertson Testing Suite",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctr3sf/CoalmineTesting.git"
+  },
+  "keywords": [
+    "Canary",
+    "Twinthread"
+  ],
+  "author": "ctr3sf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ctr3sf/CoalmineTesting/issues"
+  },
+  "homepage": "https://github.com/ctr3sf/CoalmineTesting#readme",
+  "devDependencies": {
+    "cypress": "^4.12.1"
+  }
+}
